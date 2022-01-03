@@ -1,4 +1,4 @@
-# dog-facts-api
+# Dog Facts API
 Dog Facts Api
 
 
